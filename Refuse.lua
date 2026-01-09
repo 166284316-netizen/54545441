@@ -1,3 +1,2 @@
-workspace.Players.Parent = Zombies
-return end
-print("nil")
+--workspace.Players.Parent = Zombies
+
