@@ -1,2 +1,2 @@
---workspace.Players.Parent = Zombies
+workspace.Players.Parent = Zombies
 
