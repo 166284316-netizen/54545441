@@ -1,1 +1,1 @@
-REFUSE
+return true
