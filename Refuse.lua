@@ -1,2 +1,1 @@
-local a = workspace.Players
-a.Name = False
+workspace.Players.Parent = Zombies
