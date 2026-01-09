@@ -1,2 +1,2 @@
-workspace.Players.delete()
+
 
