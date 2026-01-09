@@ -1,1 +1,1 @@
-local FUCK = true
+print("fuck")
