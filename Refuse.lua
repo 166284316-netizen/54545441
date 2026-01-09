@@ -1,1 +1,1 @@
-REFUSE
+ACCEPT
