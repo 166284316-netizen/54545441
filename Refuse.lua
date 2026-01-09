@@ -1,1 +1,1 @@
-return "ACCEPT"
+local FUCK = true
